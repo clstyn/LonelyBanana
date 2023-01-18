@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xefb50e31b5a8fe089b11bd4adc0c8bcd20338b3d",
-  "SCAN_LINK": "https://goerli.etherscan.io/tx/0x62c1654dd361693f63beb0e95e1ef5bf8e754f2ec2df72b586dd4536af6bb449",
+  "CONTRACT_ADDRESS": "0x5d47f798b45307409b3436a96e5db0acbe5ed139",
+  "SCAN_LINK": "https://goerli.etherscan.io/tx/0x76f3e8ed65d8c7d2996daf364e2a927f7dd596eb17be10a07be5855150a9f7f2",
   "NETWORK": {
     "NAME": "Görli",
     "SYMBOL": "ETH",
     "ID": 5
   },
-  "NFT_NAME": "Starry Eye",
-  "SYMBOL": "SENFT",
+  "NFT_NAME": "Lonely Banana",
+  "SYMBOL": "LBNFT",
   "MAX_SUPPLY": 10,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.025,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/starry-eye",
+  "MARKETPLACE": "Opensea Testnet",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lonely-banana",
   "SHOW_BACKGROUND": true
 }
