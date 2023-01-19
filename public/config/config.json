@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x5d47f798b45307409b3436a96e5db0acbe5ed139",
-  "SCAN_LINK": "https://goerli.etherscan.io/tx/0x76f3e8ed65d8c7d2996daf364e2a927f7dd596eb17be10a07be5855150a9f7f2",
+  "CONTRACT_ADDRESS": "0x5E957C740383197b688394f2dbAA8312de978a97",
+  "SCAN_LINK": "https://goerli.etherscan.io/tx/0x3b66ff3c83a29258c2ada18818d3b4a61bbbf092105f6e1454715016cb3370e8",
   "NETWORK": {
     "NAME": "Görli",
     "SYMBOL": "ETH",
     "ID": 5
   },
-  "NFT_NAME": "Lonely Banana",
+  "NFT_NAME": "Lonely Banana NFT",
   "SYMBOL": "LBNFT",
   "MAX_SUPPLY": 10,
-  "WEI_COST": 25000000000000000,
-  "DISPLAY_COST": 0.025,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea Testnet",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lonely-banana",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lonely-banana-nft",
   "SHOW_BACKGROUND": true
 }
